@@ -1,6 +1,6 @@
 <div align="center">
 
-#  👨🏻‍💻 **Ritual Infernet Node Guide** 👨🏻‍💻
+#  👨🏻‍💻 **Ritual Infernet Node Guide**👨🏻‍💻
 
 </div>
 
